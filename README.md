@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AiCognitive
+- 👋 Hi, I’m AiCognitive
 - 👀 I'm a Computer scientist with a background in Artificial Intelligence, Machine Learning & Big Data
 - 🌱 "Athena" footprint is just begining
 - 💞️ PLease feel free to drop me a line
